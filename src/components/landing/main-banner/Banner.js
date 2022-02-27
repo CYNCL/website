@@ -185,19 +185,16 @@ const Banner = () => {
                     </div>
                     <h5>Who We Are</h5>
                     <h4>
-                      Nam libero tempore, cum soluta nobis est eligendi optio
-                      cumque nihil impedit quo minus id quod maxime.
+                      Cyn-C Is a multi-layered blockchain project designed to progressively build a comic-based
+                      NFT universe, featuring a fully fleshed out game and coin reward experience for the
+                      Cyn-Community.
                     </h4>
                     <p>
-                      At vero eos et accusamus et iusto odio dignissimos ducimus
-                      qui <br /> blanditiis praesentium voluptatum deleniti
-                      atque corrupti quos <br /> quidem rerum facilis est et
-                      expedita distinctio libero tempore, <br /> cum soluta
-                      nobis est. <br /> <br />
-                      Temporibus autem quibusdam et aut officiis debitis aut
-                      rerum necessitatibus saepe eveniet ut et voluptates
-                      repudiandae sint et molestiae non recusandae. Itaque earum
-                      rerum hic tenetur a sapiente delectus
+                      The project combines the use of collectible NFTs in the form of trading
+                      cards, <br /> PVP battle cards, comics, limited edition artwork and memberships. <br /> <br />
+                        
+                      The aim of the Cyn-C is to build central utility around our very own currency, <br />
+                      Cyn-Coin ($CYNC), in all facets of the project.
                     </p>
                     <h3>
                       At vero eos et accusamus et iusto odio dignissimos <br />{" "}
@@ -247,9 +244,8 @@ const Banner = () => {
                 </div>
                 <h1 className="ghghg">Characters of the Cynverse</h1>
                 <p>
-                  At vero eos et accusamus et iusto odio dignissimos ducimus qui
-                  blanditiis praesentium <br /> voluptatum deleniti atque
-                  corrupti quos quidem rerum facilis est et expedita.
+                  Click on each character to view their respective OpenSea <br /> 
+                  page with all available NFTs.
                 </p>
               </div>
               <div class="owl_option">
@@ -310,26 +306,26 @@ const Banner = () => {
                     <div className="banner_imgncsjcn">
                       <img src="./assestmeta/Crynical/token1.svg" alt="img" />
                     </div>
-                    <h5>ABOUT TOKEN</h5>
+                    <h5>ABOUT THE TOKEN</h5>
                     <h4>
-                      Nam libero tempore, cum soluta nobis est eligendi optio
-                      cumque nihil impedit quo minus id quod maxime.
+                      <b>TAXATION</b>
                     </h4>
                     <p>
-                      At vero eos et accusamus et iusto odio dignissimos ducimus
-                      qui <br /> blanditiis praesentium voluptatum deleniti
-                      atque corrupti quos <br /> quidem rerum facilis est et
-                      expedita distinctio libero tempore, <br /> cum soluta
-                      nobis est. <br /> <br />
-                      Temporibus autem quibusdam et aut officiis debitis aut
-                      rerum necessitatibus saepe eveniet ut et voluptates
-                      repudiandae sint et molestiae non recusandae. Itaque earum
-                      rerum hic tenetur a sapiente delectus
+                      <b>2% Reflection</b> <br />
+                      2% of ALL transactions for buying and selling will<br />
+                      be reflected back to all holders of CYN-Coin.<br /> <br />
+                        
+                      <b> 1% Community Fund </b> <br />
+                      1% of all transactions will be sent to a gnosis safe wallet, funds will<br />
+                      be used to add incentive for new investors and reward existing CYN-Coin holders. <br /><br />
+                        
+                      <b>1% Project Fund</b><br />
+                      1% of all transactions will be sent to a gnosis safe wallet, funds will<br />
+                      be used to develop the project.<br /> <br />
+
                     </p>
                     <h3>
-                      At vero eos et accusamus et iusto odio dignissimos <br />{" "}
-                      ducimus qui blanditiis praesentium voluptatum deleniti{" "}
-                      <br /> atque.
+                      Contract Address - 0xa5522d6137Ece774e8084BBf9c34398192cCdCa5 <br />{" "}
                     </h3>
                     <button>
                       {" "}
@@ -389,11 +385,7 @@ const Banner = () => {
                   <img src="./assestmeta/Crynical/buy.svg" alt="img" />
                 </div>
                 <h1 className="ghghg">how to buy</h1>
-                <p>
-                  At vero eos et accusamus et iusto odio dignissimos ducimus qui
-                  blanditiis praesentium <br /> voluptatum deleniti atque
-                  corrupti quos quidem rerum facilis est et expedita.
-                </p>
+
               </div>
               <div className="main">
                 <div className="left">
@@ -402,10 +394,11 @@ const Banner = () => {
                 <div className="right">
                   <h4>Step-01</h4>
                   <p>
-                    At vero eos et accusamus et iusto odio dignissimos <br />{" "}
-                    ducimus qui blanditiis praesentium voluptatum deleniti{" "}
-                    <br /> atque corrupti quos quidem rerum facilis est et{" "}
-                    <br /> expedita.
+                  Create a MetaMask Wallet $CYNC token is available on the {" "} <br />
+                  Ethereum blockchain. MetaMask is a third party ERC20 (Ethereum)  {" "}<br />
+                  browser wallet, and the very best at that! On Google Chrome, visit metamask.io  {" "} <br />
+                  to download the extension and, set up a wallet. On mobile? {" "}<br />
+                  Get the MetaMask app for iPhone or Android.
                   </p>
                 </div>
               </div>
@@ -416,10 +409,9 @@ const Banner = () => {
                 <div className="right hdfbndjfj">
                   <h4>Step-02</h4>
                   <p>
-                    At vero eos et accusamus et iusto odio dignissimos <br />{" "}
-                    ducimus qui blanditiis praesentium voluptatum deleniti{" "}
-                    <br /> atque corrupti quos quidem rerum facilis est et{" "}
-                    <br /> expedita.
+                    Send $ETH to MetaMask Acquire Ethereum through MetaMask <br />{" "}
+                    itself or transfer it to your MetaMask wallet address from {" "} <br />
+                    another wallet (e.g. Coinbase or Binance).
                   </p>
                 </div>
                 <div className="left">
@@ -436,10 +428,10 @@ const Banner = () => {
                 <div className="right">
                   <h4>Step-03</h4>
                   <p>
-                    At vero eos et accusamus et iusto odio dignissimos <br />{" "}
-                    ducimus qui blanditiis praesentium voluptatum deleniti{" "}
-                    <br /> atque corrupti quos quidem rerum facilis est et{" "}
-                    <br /> expedita.
+                  Swap $ETH for $CYNC Add $CYNC Contract Address to MetaMask <br />{" "}
+                  Custom Token - 0xa5522d6137Ece774e8084BBf9c34398192cCdCa5 {" "} <br />
+                  Enter the amount of $ETH you would like to swap for $CYNC. {" "} <br />
+                  Click Connect Wallet then Swap! You are now a $CYNC Holder!
                   </p>
                 </div>
               </div>
@@ -644,9 +636,8 @@ const Banner = () => {
                   </div>
                   <h1 className="ghghg">join our community</h1>
                   <p>
-                    At vero eos et accusamus et iusto odio dignissimos ducimus
-                    qui blanditiis praesentium voluptatum <br /> deleniti atque
-                    corrupti quos quidem rerum facilis est et expedita.
+                    Please join our community to learn more about our project <br />
+                    and meet our community members! 
                   </p>
                 </div>
                 <div className="logo_img">
@@ -747,9 +738,6 @@ const Banner = () => {
                   </div>
                   <h1 className="ghghg">contact us</h1>
                   <p>
-                    At vero eos et accusamus et iusto odio dignissimos ducimus
-                    qui blanditiis praesentium voluptatum <br /> deleniti atque
-                    corrupti quos quidem rerum facilis est et expedita.
                   </p>
                 </div>
                 <div className="under_btn">
