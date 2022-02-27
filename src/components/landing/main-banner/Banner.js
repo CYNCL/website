@@ -185,9 +185,9 @@ const Banner = () => {
                     </div>
                     <h5>Who We Are</h5>
                     <h4>
-                      Cyn-C Is a multi-layered blockchain project designed to progressively build a comic-based
-                      NFT universe, featuring a fully fleshed out game and coin reward experience for the
-                      Cyn-Community.
+                      Cyn-C Is a multi-layered blockchain project designed to progressively build a comic-based<br />
+                      NFT universe, featuring a fully fleshed out game and coin reward experience for the <br />
+                      Cyn-Community.<br /><br />
                     </h4>
                     <p>
                       The project combines the use of collectible NFTs in the form of trading
