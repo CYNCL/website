@@ -3,6 +3,7 @@ import OwlCarousel from "react-owl-carousel";
 import "owl.carousel/dist/assets/owl.carousel.css";
 import "owl.carousel/dist/assets/owl.theme.default.css";
 import "./banner.scss";
+import { CommonNinjaPlugin } from 'commonninja-react';
 import { useHistory } from "react-router-dom";
 const Banner = () => {
   const PurchaseModalOpen = () => {
@@ -11,6 +12,15 @@ const Banner = () => {
 
   const PurchaseModalclose = () => {
     window.$("#exampleModal").modal("hide");
+  };
+  
+    const MyComponent = () => {
+    return (
+      <CommonNinjaPlugin
+        pluginId= "cffe189f-480f-4b65-a957-18450f0ec646"
+        type= "feed"
+      />
+    );
   };
   const [price, setprice] = useState(0);
   useEffect(() => {
@@ -872,6 +882,13 @@ ethereum(network: ethereum) {
           />
         </div> */}
       </section>
+      <div> 
+      </div>
+<section>
+<MyComponent />
+</section>
+<div>
+</div>
 
       <button
         type="button"
